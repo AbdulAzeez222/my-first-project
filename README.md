@@ -1,12 +1,12 @@
             My-first-project
             About smartphone
 
-Today's requirements
-6 GB ram-8 GB ram
-128 GB storage-256 GB storage(enough)
+Today's requirements:
+6 GB ram-8 GB ram,
+128 GB storage-256 GB storage(enough),
 AMOLED display/ OLED display(above 500 ppi), 
 4500mah battery-5000mah battery,
-Fast charge of 20-25 Watt(enough)
+Fast charge of 20-25 Watt(enough),
 32 Mega pixel or 48 Mega pixel Zeiss optics rear camera (best sensor in market and offers best quality)
 16 Mega Pixel front camera,
 Dolby Atmos speaker,
